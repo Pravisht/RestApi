@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Complete Backend API",
+      "description": "Finish the REST API endpoints for the Task Management app",
+      "status": "In Progress",
+      "priority": "High"
+    },
+    {
+      "title": "Design UI for Dashboard",
+      "description": "Create the initial design mockups for the user dashboard.",
+      "status": "Not Started",
+      "priority": "Medium"
+    },
+    {
+      "title": "Fix Bugs in Mobile App",
+      "description": "Resolve the top 5 bugs reported by users in the mobile app.",
+      "status": "Not Started",
+      "priority": "High"
+    },
+    {
+      "title": "Prepare Marketing Campaign",
+      "description": "Develop a marketing campaign to promote the app's new features.",
+      "status": "In Progress",
+      "priority": "Medium"
+    },
+    {
+      "title": "Write Blog Post on New Features",
+      "description": "Create a blog post highlighting the new features of the app.",
+      "status": "Completed",
+      "priority": "Low"
+    },
+    {
+      "title": "Research Competitor Features",
+      "description": "Research the features offered by competitors to improve the app.",
+      "status": "Completed",
+      "priority": "Medium"
+    },
+    {
+      "title": "Integrate Payment Gateway",
+      "description": "Integrate a new payment gateway for in-app purchases.",
+      "status": "In Progress",
+      "priority": "High"
+    },
+    {
+      "title": "Update User Documentation",
+      "description": "Revise and update the user documentation with the latest features.",
+      "status": "Not Started",
+      "priority": "Low"
+    },
+    {
+      "title": "Conduct User Feedback Survey",
+      "description": "Send out a survey to users to gather feedback on the new features.",
+      "status": "In Progress",
+      "priority": "Medium"
+    },
+    {
+      "title": "Optimize Database Queries",
+      "description": "Improve the performance of the database queries to reduce load times.",
+      "status": "Not Started",
+      "priority": "High"
+    }
+  ]
+  
